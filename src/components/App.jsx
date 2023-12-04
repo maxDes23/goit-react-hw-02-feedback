@@ -13,7 +13,7 @@ const Container = styled.div`
   height: 400px;
   width: 500px;
   background-color: bisque;
-  margin: 200px 480px;
+  margin: 200px 650px;
   border: 1px solid rgb(0, 0, 0);
   border-radius: 5px;
 `;
